@@ -1,0 +1,44 @@
+2021-04-27T08:12:01+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Connection\Manager::has_connected_owner() in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php:1746
+Stack trace:
+#0 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(1993): Jetpack::is_connection_ready()
+#1 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3416): Jetpack::load_modules()
+#2 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3322): Jetpack::plugin_initialize()
+#3 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#4 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#7 C:\wamp64\w in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php on line 1746
+
+2021-04-27T08:14:57+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Status::is_no_user_testing_mode() in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php:1743
+Stack trace:
+#0 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(1993): Jetpack::is_connection_ready()
+#1 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3416): Jetpack::load_modules()
+#2 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3322): Jetpack::plugin_initialize()
+#3 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#4 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#7 C:\wamp64\www\BigMo in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php on line 1743
+
+2021-04-27T08:15:02+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Status::is_no_user_testing_mode() in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php:1743
+Stack trace:
+#0 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(1993): Jetpack::is_connection_ready()
+#1 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3416): Jetpack::load_modules()
+#2 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3322): Jetpack::plugin_initialize()
+#3 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#4 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#7 C:\wamp64\www\BigMo in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php on line 1743
+
+2021-04-27T08:15:18+00:00 CRITICAL Uncaught Error: Call to undefined method Automattic\Jetpack\Status::is_no_user_testing_mode() in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php:1743
+Stack trace:
+#0 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(1993): Jetpack::is_connection_ready()
+#1 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3416): Jetpack::load_modules()
+#2 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php(3322): Jetpack::plugin_initialize()
+#3 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(292): Jetpack::plugin_activation(false)
+#4 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\class-wp-hook.php(316): WP_Hook->apply_filters('', Array)
+#5 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-includes\plugin.php(484): WP_Hook->do_action(Array)
+#6 C:\wamp64\www\BigMomsBeauty-HealthShop\wp-admin\includes\plugin.php(701): do_action('activate_jetpac...', false)
+#7 C:\wamp64\www\BigMo in C:\wamp64\www\BigMomsBeauty-HealthShop\wp-content\plugins\jetpack\class.jetpack.php on line 1743
+
